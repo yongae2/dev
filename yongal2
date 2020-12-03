@@ -1,0 +1,3 @@
+<?
+echo "WEB Page" > index.html
+?>
